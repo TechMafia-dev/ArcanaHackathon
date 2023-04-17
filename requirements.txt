@@ -1,0 +1,12 @@
+cohere
+beautifulsoup4
+Flask
+numpy
+pandas
+python-dateutil
+requests
+six
+textblob
+tradingview-ta
+urllib3
+Werkzeug
