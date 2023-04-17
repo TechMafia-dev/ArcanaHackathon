@@ -1,16 +1,16 @@
 import json
 import os
-# import cohere
-# import ast
-# import time
-# from urllib.request import urlopen, Request
-# from datetime import date, timedelta
-#
-# import requests
-# from bs4 import BeautifulSoup
-# from textblob import TextBlob
+import cohere
+import ast
+import time
+from urllib.request import urlopen, Request
+from datetime import date, timedelta
+
+import requests
+from bs4 import BeautifulSoup
+from textblob import TextBlob
 from flask import Flask, render_template, jsonify
-# import pandas as pd
+import pandas as pd
 import requests
 from tradingview_ta import TA_Handler, Interval, Exchange
 
